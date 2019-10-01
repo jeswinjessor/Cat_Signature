@@ -1,0 +1,85 @@
+
+.topnavigation
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-image: url("../image/camera.jpg");
+    background-size: cover;
+
+
+}
+.support
+{
+    margin-left: 20px;
+}
+.instagram img
+{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+}
+.facebook img
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+header
+{
+    text-align: center;
+    font-family:cursive;
+    color:brown;
+    padding-left: 500px;
+}
+
+header img
+{
+    height: 40vh;
+    width: 20vw;
+    border-radius: 50px;
+}
+form
+{
+    font-family:cursive;
+    color:brown;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border: solid brown 3px;
+    background-image: url("../image/lenses.jpg");
+    background-size:cover;
+
+}
+
+#dec
+{
+    text-align: center;
+}
+
+form img
+{
+    height: 10vh;
+    width: 5vw;
+    border-radius: 10px;
+
+}
+.product
+{
+    padding-left: 50px;
+}
+
+footer
+{
+
+    text-align: center;
+    border: solid 2px brown;
+    
+    height: 160px; 
+    font-family:cursive;
+    color: brown;
+}
+footer img
+{
+    height: 10vh;
+    width:  10vw;
+}
